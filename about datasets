@@ -1,0 +1,31 @@
+ Total No. of projects: 03
+ No of project to complete: 03
+ Title of the project 01: Movie Rating Prediction With Python
+ Title of the project 02: IRIS Flower Classification
+ Title of the project 03: Sales Prediction Using Python
+  
+ 1.MOVIE RATING PREDICTION WTIH PYTHON
+ dataset link : https://www.kaggle.com/datasets/adrianmcmahon/imdb-india-movies
+ Dataset:01
+ Every dataset has a story and this set is pulled from IMDb.com of all the Indian movies on the platform.
+ Clean this data by removing missing values or adding average values this process will help to manipulate the
+ data to help with your EDA
+
+ 2.I RIS FLOWER CLASSIFICATION
+ dataset link: https://www.kaggle.com/datasets/arshid/iris-flower-dataset
+ Dataset:02
+ The Iris flower data set is a multivariate data set introduced by the British statistician and biologist Ronald Fisher in his 1936 paper
+ The Use of multiple measurements in Taxonomic Problems. It is sometimes called Anderson's Iris data set because Edgar Anderson
+ collected the data to quantify the morphologic variation of Iris flowers of three related species. The data set consists of 50 samples
+ from each of three species of Iris (Iris setosa, Iris virginica, and Iris versicolor). Four features were measured from each sample: the
+ l ength and the width of the sepals and petals, in centimeters.
+ This dataset became a typical test case for many statistical classification techniques in machine learning such as support vector
+ machines.
+
+ 3.SALES PREDICTION USING PYTHON
+ dataset link: https://www.kaggle.com/datasets/amritmth/sales-prediction-using-python
+ Dataset:03
+ Sales prediction with Python enables businesses to forecast future sales based on factors like advertising expenses, customer segmentation,
+ and marketing platforms. Leveraging machine learning techniques, companies can analyze historical data, build predictive models, 
+ and make data-driven decisions to optimize marketing strategies, allocate resources efficiently, and maximize revenue potential.
+ By continuously updating the models with new data, businesses can adapt to market dynamics and achieve better performance in a competitive environment.
